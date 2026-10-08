@@ -1,0 +1,28 @@
+
+NYPD Arrest Data ETL Summary
+
+Top 10 Most Common Arrest Offenses:
+OFNS_DESC
+ASSAULT 3 & RELATED OFFENSES       39728
+PETIT LARCENY                      27698
+FELONY ASSAULT                     22964
+DANGEROUS DRUGS                    22379
+MISCELLANEOUS PENAL LAW            18430
+OTHER OFFENSES RELATED TO THEFT    15780
+VEHICLE AND TRAFFIC LAWS           15299
+CRIMINAL MISCHIEF & RELATED OF     12050
+ROBBERY                            11184
+DANGEROUS WEAPONS                  10584
+Name: count, dtype: int64
+
+Borough With Most Arrests:
+Brooklyn
+
+Total Arrests by Borough:
+ARREST_BORO
+K    79882
+M    66448
+B    62833
+Q    58083
+S    11707
+Name: count, dtype: int64
